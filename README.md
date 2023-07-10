@@ -3,7 +3,7 @@
 
 A trainer for GTAV made using C#, scripthookv and scripthookvdotnet!
 
-# Modules:
+## Modules:
 
 1. Invincibility
 2. Spawning Cars
@@ -21,7 +21,7 @@ A trainer for GTAV made using C#, scripthookv and scripthookvdotnet!
 More features comming soon...
 
 
-# Installation:
+## Installation:
 1. Download [ScriptHookV](http://dev-c.com/gtav/scripthookv/).
 2. Download [ScriptHookVDotNet](https://github.com/scripthookvdotnet/scripthookvdotnet).
 3. Download [Trainer](https://github.com/HellCrystal6/GTAV-Trainer)
