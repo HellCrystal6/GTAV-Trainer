@@ -161,7 +161,6 @@ namespace Trainer
                 Game.Player.Character.Weapons.Give(WeaponHash.AdvancedRifle, 10000, false, true);
                 Game.Player.Character.Weapons.Give(WeaponHash.CombatPistol, 10000, false, true);
                 Game.Player.Character.Weapons.Give(WeaponHash.CombatMG, 10000, false, true);
-                Game.Player.Character.Weapons.Give(WeaponHash.Flare, 10000, false, true);
                 Game.Player.Character.Weapons.Give(WeaponHash.GrenadeLauncher, 10000, false, true);
                 Game.Player.Character.Weapons.Give(WeaponHash.Grenade, 10000, false, true);
                 Game.Player.Character.Weapons.Give(WeaponHash.HeavySniper, 10000, false, true);
