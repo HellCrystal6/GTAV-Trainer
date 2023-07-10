@@ -16,6 +16,7 @@ A trainer for GTAV made using C#, scripthookv and scripthookvdotnet!
 9. Changing Time
 10. Infinite Ammo/Ammo in clip
 11. Adding Money
+12. Repair Vehicle
 
 More features comming soon...
 
