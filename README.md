@@ -5,7 +5,7 @@ A trainer for GTAV made using C#, scripthookv and scripthookvdotnet!
 
 # Modules
 
-1. Invincibility=
+1. Invincibility
 2. Spawning Cars
 3. Spawning Bikes
 4. Spawning Helicopters/Air vehicles
